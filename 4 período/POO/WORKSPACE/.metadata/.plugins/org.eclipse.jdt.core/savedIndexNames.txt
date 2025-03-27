@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\karol\OneDrive\Área de Trabalho\POO\WORKSPACE\.metadata\.plugins\org.eclipse.jdt.core
-4209353422.index
-1865797976.index
-3803894794.index
