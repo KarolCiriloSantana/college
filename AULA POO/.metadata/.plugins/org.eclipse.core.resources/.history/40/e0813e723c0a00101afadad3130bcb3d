@@ -1,0 +1,11 @@
+package aula02;
+
+public class Primeiro {
+
+	public static void main(String[] args) {
+		int umaVariavel; //declaração
+		System.out.println(""+ umaVariavel);
+
+	}
+
+}

@@ -1,0 +1,91 @@
+package aula02;
+
+public class Exemplo02 { //declaração da classe
+	public static void main(String[]args) { //parametros|programa principal
+		//operadores relacionais
+		System.out.println("=== operadores relacionais ===");
+		int varAInt = 5;
+		float varBFloat = 5.0f;
+		//(true e false com letras minusculas)
+		System.out.println("varA: " + varAInt);
+		System.out.println(varAInt == varBFloat); //o comparativo é do vaor e não do tipo de variável
+		
+		//=========================================================
+		System.out.println("=== operadores matemáticos ===");
+		//operadores matemáticos
+		int var1int = 5;
+		int var2int = 10;
+		System.out.println(var1int + var2int);
+		System.out.println(var1int - var2int);
+		System.out.println(var1int * var2int);
+		System.out.println(var1int / var2int);
+		System.out.println(var1int % var2int);
+		System.out.println(var1int + var2int);
+		
+		System.out.println(var1int % (float) var2int); //conversão de variáveis
+		System.out.println("== operadores matemáticos de atribuição automática ===");
+		
+		//=========================================================
+		//operadores matemáticos de atribuição automática - reduz a forma de ecrever uma operação matemática com atribuição
+		
+		int varKint = 5;
+		int varOint = 10;
+		
+		System.out.println(varKint);
+		System.out.println(varOint);
+		varOint += varKint; //varOint = varKint + var0int;
+		System.out.println(varOint);
+		
+		varKint *= varOint;
+		System.out.println(varKint);
+		
+		//operadores de incremento
+		System.out.println("=== operadores de incremento ===");
+		
+		int f = 0;
+		System.out.println(f++); //primeiro vai mostra o valor da variável...
+		System.out.println(f); // depois a incrementação de um
+		
+		System.out.println(++f);
+		System.out.println(f);
+		
+		int g = 8;
+		System.out.println(g--);
+		System.out.println(g);
+		
+		System.out.println(--g);
+		System.out.println(g);
+		
+		System.out.println("=== operadores lógicos ===");
+		boolean a = true;
+		boolean b = true;
+		System.out.println(a && b);
+		System.out.println(a || b);
+		System.out.println(!b);
+		
+		System.out.println("=== conversões ===");
+		int h = 5;
+		float i = 10.5f;
+		h = (int)i; //Explicita - tem que especificar pq o float é mais abrangente e pode haver perca de informações nas casa decimais
+		System.out.println(h);
+		System.out.println(i);
+		
+		int c = 5;
+		float d = 10.5f;
+		d = c; // implicita, pois o d (float) é mais abrangente que o c (int)	
+		
+		System.out.println(d);
+		
+		String j = "8";
+		int k;
+		
+		System.out.println(j);
+		k = Integer.parseInt(j); //Integer é uma classe q possui mé todos que convertem de String para inteiro
+		System.out.println(k);
+		k = (int) Float.parseFloat(j);
+		System.out.println(k);
+		
+		
+		
+	}
+}

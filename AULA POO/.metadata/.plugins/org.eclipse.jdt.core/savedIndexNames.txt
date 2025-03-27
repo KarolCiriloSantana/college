@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\karol\OneDrive\Área de Trabalho\POO\AULA POO\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3803894794.index
+2767675682.index

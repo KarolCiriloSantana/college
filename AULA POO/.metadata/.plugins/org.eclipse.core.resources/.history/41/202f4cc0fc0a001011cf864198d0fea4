@@ -1,0 +1,10 @@
+package aula02;
+
+public class Exemplo02 { //declaração da classe
+	public static void main(String[]args) { //parametros|programa principal
+		int varAInt = 5;
+		float varBFloat = 5.0f;
+		System.out.println("varA: " + varAInt);
+		System.out.println(varAInt == varBFloat);
+	}
+}

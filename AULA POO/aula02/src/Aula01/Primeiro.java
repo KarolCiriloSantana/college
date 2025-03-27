@@ -1,0 +1,17 @@
+package Aula01;
+
+public class Primeiro {
+
+	public static void main(String[] args) {
+		int umaVariavel; //declaração (oq é inicialização?) pode juntar as dias linhas)
+		umaVariavel = 5;
+		
+		Long umaVariavel3 = 7L;
+		byte umaVariavel2 = 6;
+		System.out.println(""+ umaVariavel);
+		System.out.println(""+ umaVariavel2);
+		System.out.println(""+ umaVariavel3);
+
+	}
+
+}

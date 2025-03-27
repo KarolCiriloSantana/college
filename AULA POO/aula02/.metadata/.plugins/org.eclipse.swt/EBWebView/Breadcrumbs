@@ -1,0 +1,63 @@
+0:35:30 Tab9 RenderProcessGone
+0:35:30 Browser9 Close Tab9 at 0
+0:35:30 Tab9 WebContentsDestroyed
+0:35:30 Microsoft.Shutdown.OnWindowClosing
+0:35:30 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:35:30 Widget Closed: BrowserFrame
+0:35:30 Microsoft.Shutdown.OnWindowClosing
+0:35:30 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:35:30 Microsoft.Browser_Removed
+0:35:30 Microsoft.Shutdown.OnWindowClosing
+0:35:30 Microsoft.Shutdown.OnWindowClosing_MaybeClearBrowsingDataOnExit
+0:35:30 Microsoft.Shutdown.OnWindowClosing_ClearBrowsingDataOnExitNotInProgress
+0:35:30 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:35:30 Tab1 RenderProcessGone
+0:35:30 Browser1 Close Tab1 at 0
+0:35:30 Tab1 WebContentsDestroyed
+0:35:30 Microsoft.Shutdown.OnWindowClosing
+0:35:30 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:35:30 Widget Closed: BrowserFrame
+0:35:30 Microsoft.Shutdown.OnWindowClosing
+0:35:30 Microsoft.Shutdown.OnWindowClosingPostClearBrowsingData_NoBrowsingDataCleared
+0:35:30 Microsoft.Last_Browser_Removed
+0:35:30 Microsoft.Shutdown.ShutdownIfNoBrowsers
+0:35:30 Microsoft.Shutdown.SetTryingToQuit_Quitting
+0:35:30 Microsoft.Shutdown.NotifyAppTerminating
+0:35:30 Microsoft.Shutdown.OnAppExiting
+0:35:30 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura
+0:35:30 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.NotificationUIManager_StartShutdown
+0:35:30 Microsoft.Shutdown.HandleAppExitingForPlatform_Aura.CloseAllSecondaryWidgets
+0:35:31 Shutdown
+0:00:00 Startup
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpEphemeralProfiles
+0:00:00 Microsoft.DeleteProfileHelper.CleanUpDeletedProfiles
+0:00:00 Microsoft.NewBrowser_Popup
+0:00:00 Microsoft.BrowserList.AddBrowser
+0:00:00 Browser1 Insert active Tab1 at 0
+0:00:00 Tab1 StartNav1 #auto_toplevel
+0:00:00 Tab1 StartNav2 #typed
+0:00:00 Tab1 FinishNav1
+0:00:00 Tab1 PageLoad
+0:00:01 Tab1 FinishNav2
+0:00:01 Tab1 PageLoad
+0:00:04 Memory Pressure: Moderate
+0:00:15 Memory Pressure: Moderate
+0:00:18 Tab1 StartNav3 #renderer-user #link
+0:00:19 Tab1 FinishNav3 ERR_ABORTED
+0:00:25 Memory Pressure: Moderate
+0:00:35 Memory Pressure: Moderate
+0:00:45 Memory Pressure: Moderate
+0:00:55 Memory Pressure: Moderate
+0:01:05 Memory Pressure: Moderate
+0:01:15 Memory Pressure: Moderate
+0:01:25 Memory Pressure: Moderate
+0:01:35 Memory Pressure: Moderate
+0:01:45 Memory Pressure: Moderate
+0:01:50 Memory Pressure: Critical
+0:01:55 Memory Pressure: Critical
+0:02:00 Memory Pressure: Critical
+0:02:05 Memory Pressure: Critical
+0:02:10 Memory Pressure: Critical
+0:02:15 Memory Pressure: Critical
+0:02:20 Memory Pressure: Critical
+0:02:23 Microsoft.Shutdown.OnWindowClosing

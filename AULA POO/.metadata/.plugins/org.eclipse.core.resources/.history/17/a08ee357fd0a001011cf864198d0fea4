@@ -1,0 +1,21 @@
+package aula02;
+
+public class Exemplo02 { //declaração da classe
+	public static void main(String[]args) { //parametros|programa principal
+		int varAInt = 5;
+		float varBFloat = 5.0f;
+		//true e false com letras minusculas
+		System.out.println("varA: " + varAInt);
+		System.out.println(varAInt == varBFloat); //o comparativo é do vaor e não do tipo de variável
+		//=========================================================
+		//operadores 
+		int var1int = 5;
+		int var2int = 10;
+		System.out.println(var1int + var2int);
+		System.out.println(var1int - var2int);
+		System.out.println(var1int * var2int);
+		System.out.println(var1int / var2int);
+		System.out.println(var1int % var2int);
+		
+	}
+}
