@@ -1,0 +1,97 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Conversão",
+            "request": "launch",
+            "mainClass": "Exercícios.Conversão",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Exercícios.Main",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Elevador",
+            "request": "launch",
+            "mainClass": "Exercícios.Elevador",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Múltiplos",
+            "request": "launch",
+            "mainClass": "Exercícios.Múltiplos",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Eleição",
+            "request": "launch",
+            "mainClass": "Exercícios.Eleição",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo05",
+            "request": "launch",
+            "mainClass": "aula01.Exemplo05",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo04",
+            "request": "launch",
+            "mainClass": "aula01.Exemplo04",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo03",
+            "request": "launch",
+            "mainClass": "aula01.Exemplo03",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo01",
+            "request": "launch",
+            "mainClass": "aula01.Exemplo01",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Exemplo02",
+            "request": "launch",
+            "mainClass": "aula01.Exemplo02",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Primeiro",
+            "request": "launch",
+            "mainClass": "aula01.Primeiro",
+            "projectName": "aula02"
+        }
+    ]
+}
