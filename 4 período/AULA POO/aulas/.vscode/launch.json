@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula04.Main",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Pesssoa",
+            "request": "launch",
+            "mainClass": "aula04.Pesssoa",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Funções",
+            "request": "launch",
+            "mainClass": "aula01.Funções",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
             "name": "Conversão",
             "request": "launch",
             "mainClass": "Exercícios.Conversão",
