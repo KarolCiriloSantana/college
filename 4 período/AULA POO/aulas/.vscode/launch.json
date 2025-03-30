@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Lapistestar",
+            "request": "launch",
+            "mainClass": "Aula06.Lapistestar",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "canetatestar",
+            "request": "launch",
+            "mainClass": "Aula06.canetatestar",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Alunotestar",
+            "request": "launch",
+            "mainClass": "Aula06.Alunotestar",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "aula05.Main",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
             "name": "Main",
             "request": "launch",
             "mainClass": "aula04.Main",

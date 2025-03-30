@@ -26,7 +26,7 @@ public class Pessoa {
         }
 
         ///Métodos
-        void falar(String frase) {
+        void falar(String frase) { //void não retorna nenhum valor, ele só executa uma ação (como imprimir uma mensagem) e termina
             System.out.println(frase);
         }
 
