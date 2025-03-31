@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalcularIMC",
+            "request": "launch",
+            "mainClass": "Exercícios.CalcularIMC",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Data",
+            "request": "launch",
+            "mainClass": "Exercícios.Data",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Aula06.Encapsulamento.Main",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
+            "name": "ContaBancoteste",
+            "request": "launch",
+            "mainClass": "Aula06.ContaBancoteste",
+            "projectName": "aula02"
+        },
+        {
+            "type": "java",
             "name": "Lapistestar",
             "request": "launch",
             "mainClass": "Aula06.Lapistestar",

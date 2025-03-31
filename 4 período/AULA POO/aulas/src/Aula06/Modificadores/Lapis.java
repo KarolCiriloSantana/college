@@ -1,4 +1,4 @@
-package Aula06;
+package Aula06.Modificadores;
 
 public class Lapis {
     public String cor;

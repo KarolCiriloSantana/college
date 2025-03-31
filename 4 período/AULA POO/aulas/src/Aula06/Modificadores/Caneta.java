@@ -1,4 +1,4 @@
-package Aula06;
+package Aula06.Modificadores;
 
 //Modificadores de acessibilidade
 

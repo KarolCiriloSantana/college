@@ -33,7 +33,7 @@ public class Main {
             break;
             } catch (NumberFormatException nfe){
                 JOptionPane.showMessageDialog(null, "O valor digitado foi inválido");
-            }
+            } 
             
         }
         

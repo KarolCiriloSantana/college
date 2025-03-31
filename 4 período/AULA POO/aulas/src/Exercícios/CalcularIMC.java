@@ -6,7 +6,7 @@ public class CalcularIMC {
     public static void main(String[] args) {
         System.out.println("Calcular O IMC");
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Informe a sula altura: ");
+        System.out.print("Informe a sua altura: ");
         double altura = scanner.nextDouble();
         System.out.print("Informe o seu peso: ");
         double peso = scanner.nextDouble();
