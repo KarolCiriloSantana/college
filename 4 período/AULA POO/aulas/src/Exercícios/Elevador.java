@@ -1,13 +1,22 @@
 package Exercícios;
 
-/*import javax.swing.JOptionPane;
+import javax.swing.JOptionPane;
 
 public class Elevador {
+  
+    private int andarAtual;
+    private int terreo;
+    private int andaresTotal;
+    private int capacidade;
+    private int pessoas;
 
+    /* 
     int térreo;
     int andar;
     int cpcd;
     int pessoas;
+
+
        16. Crie uma classe denominada Elevador para armazenar as informações de um elevador dentro de um prédio. A classe deve armazenar o andar atual (térreo = 0), total de andares no prédio, excluindo o térreo, capacidade do elevador, e quantas pessoas estão presentes nele. Deve existir um ////construtor padrão/// que inicializa os atributos com valores padrão e um construtor que recebe como parâmetro os dados de inicialização. 
         
         Além disso, devem existir os métodos: 
@@ -32,9 +41,18 @@ public class Elevador {
         
         
         */
-public class Elevador {
-private int andar;
-private int pessoas;
+
+    // Construtores 
+        public void Elevador (){
+            this.andarAtual = 0;
+            this.pessoas = 0;
+           }
+       
+       public Elevador(int andar, int pessoas) {
+               this.andar = andar;
+               this.pessoas = pessoas;
+               this.cpcd = 8;
+           }
 
     // Método para entrar no elevador
     public boolean entrar() {
@@ -74,14 +92,5 @@ private int pessoas;
 
 
 
-    // Construtores 
-    public Elevador (){
-        andar = 0;
-        pessoas = 0;
-           }
-       
-       public Elevador(int andar, int pessoas) {
-               this.andar = andar;
-               this.pessoas = pessoas;
-           }
+    
 }
