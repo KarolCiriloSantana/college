@@ -1,8 +1,9 @@
+//Faça uma função que leia um número inteiro e indique todos os seus divisores.
 package Exercícios;
 
 import java.util.Scanner;
 
-//Faça uma função que leia um número inteiro e indique todos os seus divisores.
+
 public class Numero {
  
     int num;
@@ -32,7 +33,6 @@ public class Numero {
         }
     } 
             
-        
 
     public static void main(String[] args){
          
